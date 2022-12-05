@@ -7,7 +7,7 @@ async function main() {
   const Contract = await hre.ethers.getContractFactory("HelloEthernaut");
   const contractInstance = await Contract.attach(contractAddress);
 
-  //console.log(contractInstance);
+  console.log(contractInstance.functions);
   const password = await contractInstance.password();
   console.log("password :", password);
 
