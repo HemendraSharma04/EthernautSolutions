@@ -12,3 +12,6 @@ coinflip:
 
 deploy_fakecoin:
 	yarn hardhat run deploy/DeployFakeCoin.js --network goerli
+
+telephone:
+	yarn hardhat run scripts/telephone.js --network goerli
