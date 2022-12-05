@@ -1,13 +1,5 @@
-# Sample Hardhat Project
+# Ethernaut
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+## Hello Ethernaut
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
+instance = "0x7d33BaE03717C83b5f54ba1ABE6e7FF8D5503faD"
