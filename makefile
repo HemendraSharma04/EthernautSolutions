@@ -3,3 +3,12 @@ hello:
 
 fallback:
 	yarn hardhat run scripts/Fallback.js --network goerli
+
+fallout:
+	yarn hardhat run scripts/Fallout.js --network goerli
+
+coinflip:
+	yarn hardhat run scripts/CoinFlip.js --network goerli
+
+deploy_fakecoin:
+	yarn hardhat run deploy/DeployFakeCoin.js --network goerli
