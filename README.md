@@ -9,3 +9,7 @@
 ## 4. CoinFlip
 
 ## 5. Telephone
+
+## 6.Token
+
+## 7.Delegation
